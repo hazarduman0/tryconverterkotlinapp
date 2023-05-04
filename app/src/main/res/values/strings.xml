@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">₺ Converter</string>
+    <string name="exchange_by">Indicative Exchange Rates by the Central Bank of Turkey</string>
+    <string name="unknown">unknown</string>
+    <string name="forex_exchange">Forex Exchange</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="x3">XXX</string>
+    <string name="x5">XXXXX</string>
+    <string name="x1">X</string>
+    <string name="bnStr">Banknote Exchange</string>
+    <string name="converter">Converter</string>
+</resources>
